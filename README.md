@@ -1,6 +1,6 @@
 # 🔍 FileGuard - Advanced System File Access Auditor
 
-![FileGuard Terminal Screenshot](.images/image.jpg)
+![FileGuard Terminal Screenshot](https://i.ibb.co/trTn1WZ/image.jpg)
 
 FileGuard is a comprehensive security tool designed to audit access permissions for critical system files across multiple platforms. It provides system administrators and security professionals with immediate visibility into potential vulnerabilities.
 
